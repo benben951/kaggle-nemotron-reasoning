@@ -2,6 +2,14 @@
 
 This repository is a reproducible workspace for the Kaggle NVIDIA Nemotron Model Reasoning Challenge.
 
+## Portfolio Snapshot
+
+This repository is positioned as a reasoning evaluation and post-training preparation lab. It tracks task-family analysis, deterministic baselines, SFT data preparation, LoRA/distillation attempts, and failed-run evidence.
+
+- Portfolio angle: LLM reasoning evaluation, experiment discipline, and post-training data workflow.
+- Core evidence: data inspection, submission validation, experiment notes, and adapter-training attempts.
+- More details: [Project Showcase](docs/PROJECT_SHOWCASE.md)
+
 Goal:
 
 - Build a public, resume-worthy reasoning-evaluation project.
@@ -65,8 +73,7 @@ This project will not chase a single prompt trick. The intended route is:
 
 Chinese:
 
-> 参与 NVIDIA/Kaggle 推理挑战，构建可复现的推理任务解析、规则求解、实验追踪和提交校验工作流，将 LLM 推理问题拆解为可评估的任务族与错误类型。
-
+> 鍙備笌 NVIDIA/Kaggle 鎺ㄧ悊鎸戞垬锛屾瀯寤哄彲澶嶇幇鐨勬帹鐞嗕换鍔¤В鏋愩€佽鍒欐眰瑙ｃ€佸疄楠岃拷韪拰鎻愪氦鏍￠獙宸ヤ綔娴侊紝灏?LLM 鎺ㄧ悊闂鎷嗚В涓哄彲璇勪及鐨勪换鍔℃棌涓庨敊璇被鍨嬨€?
 English:
 
 > Built a reproducible reasoning-challenge lab for the NVIDIA/Kaggle Nemotron competition, including task-family analysis, deterministic solver baselines, experiment tracking, and submission validation.
