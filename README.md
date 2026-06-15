@@ -55,3 +55,11 @@ submissions/              generated outputs
 ## Resume Angle
 
 Built a reproducible reasoning-challenge lab for the NVIDIA/Kaggle Nemotron competition, including task-family analysis, deterministic solver baselines, experiment tracking, and submission validation as a bridge toward post-training and adapter workflows.
+## Post-Competition Retro
+
+Final Nemotron retrospective and reusable Kaggle workflow assets:
+
+- [Nemotron final retro](docs/NEMOTRON_FINAL_RETRO_20260616.md)
+- [Next Kaggle playbook](docs/NEXT_KAGGLE_PLAYBOOK.md)
+- [Kaggle submission guardrails](docs/KAGGLE_SUBMISSION_GUARDRAILS.md)
+- [Full experiment ledger](docs/EXPERIMENTS.md)
