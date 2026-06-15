@@ -1,0 +1,4 @@
+interface:
+  display_name: "Kaggle Competition Playbook"
+  short_description: "Kaggle medal and submission discipline"
+  default_prompt: "Use $kaggle-competition-playbook to plan this Kaggle competition run with medal math, prior-art reproduction, validation gates, and submission budgeting."
